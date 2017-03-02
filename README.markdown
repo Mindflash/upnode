@@ -1,4 +1,6 @@
 # upnode
+> This is an external library used in our message queueing system.
+
 
 Keep a dnode connection alive and re-establish state between reconnects
 with a transactional message queue.
